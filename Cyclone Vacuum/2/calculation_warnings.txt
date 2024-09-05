@@ -1,0 +1,11 @@
+2024-Aug-26 00:15:32
+Computer name:	ENZON
+Number of cores used in calculation:	16
+Configuration name:	Default
+Project name:	Project(2)
+
+Warnings on last iteration: 
+1. Phase transition in the Real gas may occur :
+	 
+2. A vortex crosses the pressure opening :
+	Boundary Condition : Environment Pressure 4 ; Inlet flow/outlet flow=0.999986

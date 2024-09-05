@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<version>1</version>
+	<name>With motor</name>
+	<uuid>80734a42-bea2-4230-ac84-fec3f077c5e9</uuid>
+	<directory>prj3</directory>
+	<vwr_res_files_dir>3</vwr_res_files_dir>
+	<geom_db_uuid>cd50f189-a014-45da-a3b5-7cd32db41f3c</geom_db_uuid>
+	<gdb_light_uuid>d52d1e90-dbf7-46b0-8992-b8de560870b4</gdb_light_uuid>
+	<model_geom_uuid>3428c8d7-d93c-4f87-a899-abe26c530523</model_geom_uuid>
+	<template_id/>
+</project>
