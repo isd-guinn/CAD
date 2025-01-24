@@ -1,0 +1,9 @@
+2024-Oct-06 01:49:19
+Computer name:	ENZON
+Number of cores used in calculation:	16
+Configuration name:	Default
+Project name:	Project(1)
+
+Warnings on last iteration: 
+1. A vortex crosses the pressure opening :
+	Boundary Condition : Environment Pressure 3 ; Inlet flow/outlet flow=1

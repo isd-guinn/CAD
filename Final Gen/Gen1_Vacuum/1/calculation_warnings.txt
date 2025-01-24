@@ -1,0 +1,17 @@
+2024-Oct-06 00:38:52
+Computer name:	ENZON
+Number of cores used in calculation:	16
+Configuration name:	Default
+Project name:	Project(1)
+
+Warnings on last iteration: 
+1. A vortex crosses the pressure opening :
+	Boundary Condition : Environment Pressure 3 ; Inlet flow/outlet flow=21.9914
+	Boundary Condition : Environment Pressure 3 ; Inlet flow/outlet flow=0.150693
+	Boundary Condition : Environment Pressure 3 ; Inlet flow/outlet flow=5.05141
+	Boundary Condition : Environment Pressure 3 ; Inlet flow/outlet flow=0.915699
+	Boundary Condition : Environment Pressure 3 ; Inlet flow/outlet flow=0.210995
+2. Unresolved Fluid Subdomains :
+	Condition name : Fluid Subdomain 1
+3. Unresolved volume condition :
+	Condition name : Fluid Subdomain 1

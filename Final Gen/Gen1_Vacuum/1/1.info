@@ -1,0 +1,57 @@
+Model: Gen1_Vacuum.SLDASM
+Project name: Project(1)
+Config name: Default
+Project path: C:\Users\anson\Desktop\1\1.xmlconfig
+Status: Finished
+
+Number of cells:
+    Total cells: 18673
+    Fluid cells: 18673
+    Solid cells: 15987
+    Fluid cells containing solids: 10061
+
+
+Geometry preparation finished: 00:38:31
+Geometry preparation time: 00:00:01
+Solver CPU time: 00:00:22
+Iterations: 96
+Travels: 1.80927
+Physical time: 0.000000e+00 s
+Current time step: 0.000000e+00 s
+Last iteration finished: 00:38:52
+CPU time per last iteration: 00:00:00
+CPU time left: 00:00:01
+Iterations per 1 travel: 54
+
+Goals
+    Name                  | Unit (SI)       | Value           | Progress  | Critetia        | Delta           | Use in convergence
+    GG Mass Flow Rate 1   | mass flow       |           -0.00 |     100.0 |            0.12 |            0.00 | On
+    GG Volume Flow Rate 2 | volumetric flow |            0.00 |     100.0 |            0.00 |            0.00 | On
+    GG Force (X) 3        | force           |            2.96 |     100.0 |            1.22 |            1.07 | On
+    GG Force (Y) 4        | force           |          -30.16 |     100.0 |            1.67 |            0.25 | On
+    GG Force (Z) 5        | force           |         -251.45 |     100.0 |            5.59 |            4.23 | On
+
+Project details
+    Default fluids: Water
+    Analysis type: Internal
+    Heat conduction in solids: Off
+    Radiation: Off
+    Time dependent: Off
+    Gravitational effects: Off
+    Flow type: Laminar and turbulent
+    Cavitation: Off
+    Hign Mach number flow: On
+    Free surface: Off
+    Structural: Off
+    Electromagnetism: Off
+
+System info
+    Product: Flow Simulation 2024  x64 / 6234 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2
+    CAD version: SOLIDWORKS 2024 SP1.0
+    Computer name: ENZON
+    User name: anson
+    Operating system: Windows 11 (or higher) (Version 10.0.22631)
+    Processors: AMD Ryzen 9 7940HS w/ Radeon 780M Graphics     
+    Number of cores: 16
+    Memory: 16806 MB / 31966 MB
+

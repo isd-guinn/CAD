@@ -1,0 +1,111 @@
+{
+    "version": 0,
+    "model_name": "Gen1_Vacuum.SLDASM",
+    "project_name": "Project(1)",
+    "config_name": "Default",
+    "project_path": "C:\\Users\\anson\\Desktop\\1\\1.xmlconfig",
+    "finished": true,
+    "mesh": {
+        "cells_total": 18673,
+        "cells_fluid": 18673,
+        "cells_solid": 15987,
+        "cells_fluid_containing_solid": 10061
+    },
+    "telemetry": {
+        "prepare_geometry_finished": "00:38:31+0800",
+        "prepare_geometry_total_time": 1,
+        "cpu_time_solver_total": 22,
+        "iteration": 96,
+        "travel": 1.8092692680404399,
+        "phys_time": 0.0,
+        "time_step": 0.0,
+        "last_iteration_finished": "00:38:52+0800",
+        "cpu_time_per_last_iter": 0,
+        "cpu_time_left": 1,
+        "iterations_per_travel": 54
+    },
+    "goals": [
+        {
+            "goal": {
+                "name": "GG Mass Flow Rate 1",
+                "unit": "mass flow",
+                "value": -3.6125967737277165e-06,
+                "progress": 100.0,
+                "criteria": 0.12212870520769827,
+                "delta": 2.653599933739099e-06,
+                "use_in_convergence": true
+            }
+        },
+        {
+            "goal": {
+                "name": "GG Volume Flow Rate 2",
+                "unit": "volumetric flow",
+                "value": 9.682676575892973e-09,
+                "progress": 100.0,
+                "criteria": 0.00012242863286425837,
+                "delta": 3.0189013188651083e-09,
+                "use_in_convergence": true
+            }
+        },
+        {
+            "goal": {
+                "name": "GG Force (X) 3",
+                "unit": "force",
+                "value": 2.9632227850089237,
+                "progress": 100.0,
+                "criteria": 1.2167557691717321,
+                "delta": 1.0701864884832233,
+                "use_in_convergence": true
+            }
+        },
+        {
+            "goal": {
+                "name": "GG Force (Y) 4",
+                "unit": "force",
+                "value": -30.16496750542445,
+                "progress": 100.0,
+                "criteria": 1.6743402077078928,
+                "delta": 0.2547499852251853,
+                "use_in_convergence": true
+            }
+        },
+        {
+            "goal": {
+                "name": "GG Force (Z) 5",
+                "unit": "force",
+                "value": -251.4466140744275,
+                "progress": 100.0,
+                "criteria": 5.587191072210814,
+                "delta": 4.233891119430467,
+                "use_in_convergence": true
+            }
+        }
+    ],
+    "settings": {
+        "default_fluids": [
+            "Water"
+        ],
+        "analysis_type": "internal",
+        "heat_conduction_in_solids": false,
+        "radiation": false,
+        "time_dependent": false,
+        "gravity": false,
+        "flow_type": "laminar and turbulent",
+        "cavitation": false,
+        "high_mach_number": true,
+        "free_surface": false,
+        "structural": false,
+        "electromagnetism": false
+    },
+    "system_info": {
+        "product_name": "Flow Simulation 2024  x64 / 6234 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2",
+        "cad_version": "SOLIDWORKS 2024 SP1.0",
+        "computer_name": "ENZON",
+        "user_name": "anson",
+        "os": "Windows 11 (or higher) (Version 10.0.22631)",
+        "cpu": "AMD Ryzen 9 7940HS w/ Radeon 780M Graphics     ",
+        "number_of_cores": 16,
+        "memory_avail": 16806,
+        "memory_total": 31966
+    }
+}
